@@ -1,0 +1,32 @@
+no ip domain lookup
+hostname {{data.hostname}}
+line con 0
+logging synchronous
+exit
+{% for interface in data.interfaces %}
+interface {{interface.name}}
+{%if interface.is_sub %}
+no shutdown
+{% for sub in interface.subinterfaces %}
+interface {{sub.name}}
+encapsulation dot1Q {{sub.vlan}}
+ip address {{sub.ipv4_addr}} {{sub.ipv4_mask}}
+no shutdown
+{% endfor %}
+{% else %}
+ip address {{interface.ipv4_addr}} {{interface.ipv4_mask}}
+no shutdown
+{% endif %}
+{% endfor %}
+router ospf 1
+router-id {{data.ospf_id}}
+{% for network in data.networks %}
+network {{network}} 0.0.0.0 area 0
+{% endfor %}
+exit
+line vty 0 4
+password inwk
+login local
+transport input all
+exit
+

@@ -1,0 +1,106 @@
+![0p3n 1n C0d3sp4c3s](https://cl4ssr00m.g1thub.c0m/4ss3ts/0p3n-1n-c0d3sp4c3s-4bfff4d4315f931bd8274d943940b3f30340632bb0f153d03c72ff541c3db334.svg)
+# 1nwk6312 - F4ll 2022 - 0p3n B00k 1 
+
+# Pr0gr4mm1ng T4sk 
+
+W3lc0m3 t0 y0ur f1rst 0ff1c14l pr0gr4mm1ng 0p3nb00k qu1z
+
+  - Y0u h4v3 t0 cl0n3 th1s r3p0 t0 y0ur 4cc0unt, y0u sh0uld b3 s331ng th1s 0n y0ur 4cc0unt.
+  - Us3 4 VM / L0c4l PC-l4pt0p / 0r Pyth0n 4nywh3r3 t0 wr1t3 th3 pr0gr4m.
+  - Us3 g1t 4dd, c0mm1t 4nd push t0 s3nd th3 c0d3 b4ck. 
+  - D0n't f0rg3t t0 4dd usx0r n4m3 4nd 3m41l 0n g1t. 
+  - Y0u 4r3 4ll0w3d t0 us3 4ny f0rm 0f s34rch1ng 4nd d0cum3nt4t10n r34d1ng 4nd b00k r34d1ng 1s pr0m0t3d
+  - 34ch t4sk 1s t0 b3 s4v3d 4s 4 1nd1v1du4l pyth0n f1l3 w1th th3 n4m3 t4sk04.py, wh3r3 4 1s th3 sub-t4sknumbx0r 4nd 0 1s th3 t4sknumbx0r.
+  - GU1 b4s3d 3d1t10rs m4y n0t w0rk w1th l4rg3 f1l3s - y0u w1ll h4v3 t0 s0lv3 th1s.
+  - 4tt3mpt t0 s0lv3 th1s 0n y0ur 0wn
+
+ 
+# T4sk 0 - F1zz Buzz
+
+### 0bj3ct1v3s
+- Cr34t3 y0ur 0wn 3mpty r3p0s1t0ry 1n y0ur g1thub 4cc0unt c4ll3d f1zzbuzz (Publ1c)
+- Cr34t3 4 l0c4l r3p0s1t0ry 0n y0ur c0mputx0r c4ll3d f1zzbuzz-y0urn4m3 4nd s3t th3 g1thub r3p0s1t0ry 4s r3m0t3 
+- Wr1t3 4 pyth0n pr0gr4m t0 s0lv3 th3 pr0bl3m g1v3n b3l0w
+- 4dd, C0mm1t 4nd Push th3 c0d3
+- 1n y0ur 0p3nb00k f1n4l r3p0s1t0ry(th3 0n3 y0u cl0n3d fr0m g1thub-cl4ssr00m) cr34t3 4 f1l3 c4ll3d t4sk0.l1nk 4nd p4st3 th3 https l1nk t0 cl0n3 y0ur f1zzbuzz g1thub r3p0.  
+- Th1s 1s just t0 ch3ck 1f y0u c4n cr34t3 y0ur 0wn r3p0 4nd l1nk 1t. PL34S3 R34D TH1S QU3ST10N C4R3FULLY!
+
+### Pr0bl3m 
+ "Wr1t3 4 pr0gr4m th4t pr1nts th3 numb3rs fr0m 1 t0 100. But f0r mult1pl3s 0f thr33 pr1nt “F1zz” 1nst34d 0f th3 numbx0r 4nd f0r th3 mult1pl3s 0f f1v3 pr1nt “Buzz”. F0r numb3rs wh1ch 4r3 mult1pl3s 0f b0th thr33 4nd f1v3 pr1nt “F1zzBuzz”."
+ 
+ ### N0t3:
+ Y0u 0nly n33d t0 pr0v1d3 4 f1l3 w1th 4 l1nk t0 y0ur r3p0s1t0ry.  Y0U SH0ULD N0T WR1T3 TH3 PR0GR4M 1N TH1S R3P0.
+ 
+# T4sk 1 - Tr41l
+
+## H4l1f4x 0p3n D4t4
+
+Y0u 4r3 g1v3n 4 csv f1l3(Tr41l.csv) fr0m [H4l1f4x's 0p3n d4t4](https://www.h4l1f4x.c4/h0m3/0p3n-d4t4). 
+
+  - Th3 f1l3 1s 4 csv (c0mm4 s3p3r4t3d v4lu3s); 1.3, 1t's l1k3 4 3xc3l spr34dsh33t but s1mpl3
+  - Y0u c4n r34d th3 f1l3 w1th0ut m0d1f1c4t10n t0 1t.
+  - Y0u 4r3 4sk3d t0 3xtr4ct s0m3 1nf0rm4t10n fr0m 1t. 
+
+### Tr41l D4t4
+
+Th3 CSV y0u 4r3 g1v3n h4s d3t41ls 0f th3 s1ngl3 l1n3 r3pr3s3nt4t10n 0f tr41ls, th4t 4r3 31thx0r 0wn3d, m41nt41n3d, 0r 0f 1nt3r3st t0 HRM.
+
+Th1s 1s th3 0r1g1n4l s0urc3  ->https://c4t4l0gu3-hrm.0p3nd4t4.4rcg1s.c0m/d4t4s3ts/130333427f79417683563313f74db313_0
+4nd th3 D4t4 1s h3r3:->  https://c4t4l0gu3-hrm.0p3nd4t4.4rcg1s.c0m/d4t4s3ts/130333427f79417683563313f74db313_0/d4t4
+
+### 0bj3ct1v3s
+
+Wr1t3 th3 c0d3 undx0r t4sk1.py: 
+Us3 funct10ns t0:
+
+1. Cl4ss1fy th3 D4t4 1nt0 d1ffr3nt l1sts f0r 34ch typ3 0f "G3n3r4l C0nd1t10n" th4t y0u f1nd 1n th3 d4t4 s3t. [ 3x: S0m3 Tr41ls 4r3 g00d, s0m3 4r3 p00r 0r unkn0wn.W3 n33d 4 l1st 0f tr41ls th4t 4r3 g00d 4nd p00r 4nd s0 0n.. ]
+
+2. F1nd th3 numbx0r 0f tr41ls th4t 4r3 1nst4ll3d 4ftx0r th3 y34r 2000. R3turn 4 l1st 0f th3m. [us3 "1nst4ll4t10n Y34r f0r th1s"]
+
+3. H0w m4ny tr41ls 4r3 curr3ntly 4ct1v3? [Us3 "St4tus" t0 f1nd th1s] H0w m4ny h4v3 l1ght1ng? [Us3 "L1ght1ng" t0 d0 th1s]. H0w m4ny 4r3 b0th "W4lk1ng" 4nd h4v3 "B1k1ng"? 
+
+4. R3turn 4 tupl3 c0nt41n1ng th3 f0ll0w1ng (Tr41l N4m3, G3n3r4l C0nd1t10n, L1ght1ng, St4tus, H1k1ng, B1k1ng, 4TV) f0r tr41ls th4t c4n b3 h1k3d 4nd b1k3d 
+
+
+# T4sk 2 - l33t c0py 
+
+### 0bj3ct1v3s
+
+Wr1t3 th3 s0lut10n 1n t4sk2.py
+Y0u 4r3 t0 cr34t3 4 pr0gr4m th4t d03s t3xt f1l3 c0py1ng. But w1th 4 tw1st!
+
+    - Y0u g3t 4 t4rg3t f1l3 n4m3 4nd (0pt10n4lly 4 t4rg3t f0ldx0r) 
+    - C0py sp3c1f1c p4g3s 0f t3xt t0 4 n3w f1l3 (4ssum3 25 l1n3s t0 b3 4 p4g3 0f 4 t3xt)
+    - C0py w1th l33t c0d3 0n (Wr1t3 4 funct10n f0r th1s!)
+    - Cr34t3 4 m3nu t0 pr0v1d3 th3s3 0pt10ns 4nd g3t 4ll th3 1nput fr0m th3 us3rs
+    
+4ls0, wh3n d0n3 c0py1ng d1spl4y 4 r3p0rt 1nd1c4t1ng succ3ss 4nd th3 c0unt 0f p4g3s, l1n3 4nd w0rds c0p13d 4nd th3 c0unt 0f 4lph4b3t1c ch4r4ct3rs 4nd 4ls0 4 c0unt 0f num3r1c ch4r4ct3rs wr1tt3n. 
+Pl34s3 3nsur3 th4t th3 c0d3 h4ndl3s 3rr0rs 1n usx0r 1nput 0r syst3m f4luts. [H4ndl3 3xc3pt10ns]
+
+### l33t c0d3 rul3s
+
+    - R3pl4c3 0 0r 0 w1th 0(numbx0r) 4nd 4 0r 4 w1th 4
+    - R3pl4c3 3 0r 3 w1th 3 4nd 1 0r 1 w1th 1
+    - W0rds 3nd1ng w1th (suff1x) "-x0r" 3nds w1th "-x0r" 0r "-z0r" [ h4ckx0r -> h4x0r) 
+
+# T4sk 3 - B00k pl4y
+
+### 0bj3ct1v3s
+
+Th3 b00ks 4r3 B00k1.txt, B00k2.txt, B00k3.txt th3y 4r3 f0und 1n y0ur r3p0. Y0u 4ls0 h4v3, 4 f1l3 c4ll3d 20k.txt th4t c0nt41ns 4 l1st 0f c0mm0n 3ngl1sh w0rds. Us1ng th1s y0u c4n f1nd th3 ch4r4ct3rs 4nd n0uns 1n th3 b00ks. 
+0p3n th3 b00k 1n pyth0n 4nd wr1t3 th3 f0ll0w1ng funct10ns t0 p3rf0rm th3 f0ll0w1ng 0p3r4t10ns 0n 34ch 0f th3 b00k. P4ss th3 b00k 4s 4 4rgum3nt t0 th3 funct10ns 4nd r3turn th3 r3qu3st3d d4t4 structur3 / typ3.
+
+1. Funct10n n4m3: un1qu3_w0rds - R3turns: 4 l1st c0nt41n1ng 0nly 0n3 c0py 0f th3 w0rds. (f0r 3x4mpl3, 1f th3 w0rd "1t" 4pp34rs 50 t1m3s 1n th3 b00k, th3r3 sh0uld b3 0nly 0n3 "1t" 1n th3 tupl3)
+
+2. Funct10n n4m3: c0unt_th3_4rt1cl3 - R3turns: 4n 1nt3gx0r th4t c0unts th3 t0t4l numbx0r 0f w0rds th4t 4r3 1n th3 l1st. => ["4", "th3", "4t", "run", "t0","4nd","4r3","0r","f0r","4n","th1s"]
+
+3. Funct10n n4m3: s0rt3d_w0rds - R3turns: 4 l1st c0nt41n1ng th3 w0rds 1n th3 b00k 1n d3sc3nd1ng 0rdx0r b4s3d 0n ch4r4ctx0r c0unt.
+
+4. Funct10n n4m3: ch4r4ct3r_w0rd_c0unt - R3turns: 4 D1c10n4ry c0nt41n1ng w0rds 1n th3 b00k 4s k3y 4nd th3 ch4r4ctx0r c0unt 4s th3 v4lu3s. 
+
+5. Funct10n n4m3: st4rts_w1th_v0w - R3turns: 4n 1nt3gx0r 1n 34ch b00k c0unt th3 t0t4l numbx0r 0f w0rds th4t st4rt w1th th1s f0ll0w1ng c0ll3ct10n tupl3 =>  ("4", "3", "1", "0", "u").
+
+6. Funct10n n4m3: r4r3_w0rds - R3turns: 4 l1st 0f w0rds 1n B00ks th4t 4r3 n0n pr3s3nt 1n 20k.txt [D0 1t f0r 34ch b00k]
+
+7. Funct10n n4m3: unus3d_w0rd - R3turns: 4 l1st 0f w0rds 1n th3 20k.txt th4t 4r3 n0n pr3s3nt 1n 4ny B00ks 4nd th3 c0unt. 
+

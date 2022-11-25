@@ -1,0 +1,13 @@
+1. go to folder "netmiko-lab" for Lab2 and run "source bin/activate" 
+2. go to docker-netmiko-lab and run pip3 freeze > requirements.txt
+3. copy all source code and jinja and yml files to docker-netmiko-lab/netmiko-lab
+4. create Dockerfile and edit it, following the reference of official python image https://hub.docker.com/_/python/. and make sure the file names are reflected in the Dockerfile
+4.1 WORKDIR /app
+4.2 COPY netmiko-lab /app
+4.3 RUN git clone https://github.com/networktocode/ntc-templates
+4.4 RUN export NET_TEXTFSM=ntc-templates/ntc_templates/templates
+4.5 to run 2 python files (one is pushing configurations and the other is collecting routing tables), use a shell script runpython.sh to execute these 2 python source files
+5. in the Dockerfile, add RUN chmod a+x runpython.sh and CMD ["./runpython.sh"] 
+6. save the Dockerfile
+7. docker build -t task3 .
+8. docker run task3
